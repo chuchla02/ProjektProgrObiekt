@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sHKgY7dtlHPMfObHfAAM0pAWEt59yCteTODTv5sbWzmBN1M/MHbpb6DRIOoNrXQLpMy0JNGNc1v0XVGwgNQHZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kacper\\Desktop\\Nowy folder\\Projekt Obiektowe\\Projekt Obiektowe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kacper\\.nuget\\packages\\csvhelper\\31.0.0\\csvhelper.31.0.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\system.linq.async\\4.0.0\\system.linq.async.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

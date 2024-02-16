@@ -1,0 +1,18 @@
+C:\Users\Kacper\Desktop\Nowy folder\Projekt Obiektowe\obj\Release\net6.0\Projekt Obiektowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\Nowy folder\Projekt Obiektowe\obj\Release\net6.0\Projekt Obiektowe.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\Nowy folder\Projekt Obiektowe\obj\Release\net6.0\Projekt Obiektowe.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\Nowy folder\Projekt Obiektowe\obj\Release\net6.0\Projekt Obiektowe.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\Nowy folder\Projekt Obiektowe\bin\Release\net6.0\Projekt Obiektowe.exe
+C:\Users\Kacper\Desktop\Nowy folder\Projekt Obiektowe\bin\Release\net6.0\Projekt Obiektowe.deps.json
+C:\Users\Kacper\Desktop\Nowy folder\Projekt Obiektowe\bin\Release\net6.0\Projekt Obiektowe.runtimeconfig.json
+C:\Users\Kacper\Desktop\Nowy folder\Projekt Obiektowe\bin\Release\net6.0\Projekt Obiektowe.dll
+C:\Users\Kacper\Desktop\Nowy folder\Projekt Obiektowe\bin\Release\net6.0\Projekt Obiektowe.pdb
+C:\Users\Kacper\Desktop\Nowy folder\Projekt Obiektowe\obj\Release\net6.0\Projekt Obiektowe.dll
+C:\Users\Kacper\Desktop\Nowy folder\Projekt Obiektowe\obj\Release\net6.0\refint\Projekt Obiektowe.dll
+C:\Users\Kacper\Desktop\Nowy folder\Projekt Obiektowe\obj\Release\net6.0\Projekt Obiektowe.pdb
+C:\Users\Kacper\Desktop\Nowy folder\Projekt Obiektowe\obj\Release\net6.0\Projekt Obiektowe.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\Nowy folder\Projekt Obiektowe\obj\Release\net6.0\ref\Projekt Obiektowe.dll
+C:\Users\Kacper\Desktop\Nowy folder\Projekt Obiektowe\bin\Release\net6.0\CsvHelper.dll
+C:\Users\Kacper\Desktop\Nowy folder\Projekt Obiektowe\bin\Release\net6.0\System.Linq.Async.dll
+C:\Users\Kacper\Desktop\Nowy folder\Projekt Obiektowe\obj\Release\net6.0\Projekt Obiektowe.csproj.AssemblyReference.cache
+C:\Users\Kacper\Desktop\Nowy folder\Projekt Obiektowe\obj\Release\net6.0\Projekt Obiektowe.csproj.CopyComplete

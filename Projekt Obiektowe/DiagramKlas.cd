@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Projekt_Obiektowe.RentalSystem">
+    <Position X="9" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgBAAAAAAgAAAACAgAAAAAAEAAAAAAAACAA=</HashCode>
+      <FileName>RentalSystem.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="rentedItems" />
+      <Field Name="availableItems" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Projekt_Obiektowe.RentalItem">
+    <Position X="12.75" Y="2.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAABABAAAQAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RentalItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Program">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
